@@ -7,7 +7,7 @@ root.title("Attēla pārvietošana")
 root.geometry("1920x1080") 
 
 # Read the Image
-img = Image.open("baby.png")
+img = Image.open("mne.png")
  
 # Resize the image using resize() method
 resize_image = img.resize((500, 500))
